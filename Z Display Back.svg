@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="314.96914498mm" height="250mm" viewBox="0 0 314.96914498 250">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <path d="M37.04021279,2.92893219 L17.89807717,22.07106781 A10,10 0 0,0 14.96914498,29.14213562 L14.96914498,220.85786438 A10,10 0 0,0 17.89807717,227.92893219 L37.04021279,247.07106781 A10,10 0 0,0 44.11128061,250 L285.82700936,250 A10,10 0 0,0 292.89807717,247.07106781 L312.04021279,227.92893219 A10,10 0 0,0 314.96914498,220.85786438 L314.96914498,29.14213562 A10,10 0 0,0 312.04021279,22.07106781 L292.89807717,2.92893219 A10,10 0 0,0 285.82700936,0 L44.11128061,0 A10,10 0 0,0 37.04021279,2.92893219 Z "/>
+    </g>
+    <g lc:layername="ANNOTATION_TEXT" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+    <g lc:layername="VISIBLE" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+</svg>

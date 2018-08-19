@@ -37,7 +37,7 @@ This is perhaps the most tricky bit. I did have some trouble with my configurati
 
 you will need to connect two wires from the Maslow controller: Ground and 'TX' - yes, you have to connect to the transmit pin since we're listening in on the communication FROM the controller (not the data sent TO the controller)
 
-*Ground connects to ground on the display controller
-*TX from the Maslow connects to RX on the display controller.
+* Ground connects to ground on the display controller
+* TX from the Maslow connects to RX on the display controller.
 
 That's it - you should now have a huge display for your machine!

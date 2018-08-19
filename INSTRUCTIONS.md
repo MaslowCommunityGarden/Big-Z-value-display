@@ -20,13 +20,16 @@ Remember: If you change the number of pixels per segment you will have to update
 Remember: If you change the segment orientation which is quite likely if you don't route the segments like I have - you will need to update the segment-offset values in the code. othervise the segment decoder will not work properly.
 
 3. Mark the channels on the base-board.
+
 ![alt text](https://discourse-cdn-sjc2.com/standard11/uploads/maslowcnc/optimized/2X/e/eb81d6e02dab8cacec9e2735df8e9e419a1ad547_1_666x500.jpg "Marking of wiring positions")
 
 4. Using the glue on the back-side of the LED strip put down the segments
+
 ![alt text](https://discourse-cdn-sjc2.com/standard11/uploads/maslowcnc/optimized/2X/5/54c8866b411bd2bb5826c702f6d6923179126853_1_375x500.jpg "Segments in place")
 
-4. solder time! connect all the segments with Ground, Power and Signal wires. the last pixel is the decimal indicator.
+5. solder time! connect all the segments with Ground, Power and Signal wires. the last pixel is the decimal indicator.
 Using the markings the wires can be laid out more easily. This is an old picture of the display - you should have a decimal point as the last part of the string
+
 ![alt text](https://discourse-cdn-sjc2.com/standard11/uploads/maslowcnc/optimized/2X/a/ab6f488a7f50dd49a3eed87c0b82ff0b01723ca8_1_375x500.jpg "Front board put on top of segments and wires")
 
 ##Wiring to the Maslow controller

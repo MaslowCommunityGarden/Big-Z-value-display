@@ -1,12 +1,12 @@
 # Building instructions
 ## Materials
-1x arduino (any will do - I'm using a Pro Mini)
-1x 5V power supply for the display. you CAN NOT use the maslow power - you will get USB errors and lose your work.
-57x WS2812/NeoPixel cut in separate strips with 4 in each segment. leave a single for decimal separator
-??x connection wire (the led strips need 3 connections between each segment)
-1x Front plate cut from SVG or DVG file
-1x Back plate cut from SVG or DVG file
-optional: opaque acrylic cut from the same pattern as the Back file.
+* 1x arduino (any will do - I'm using a Pro Mini)
+* 1x 5V power supply for the display. you CAN NOT use the maslow power - you will get USB errors and lose your work.
+* 57x WS2812/NeoPixel cut in separate strips with 4 in each segment. leave a single for decimal separator
+* ??x connection wire (the led strips need 3 connections between each segment)
+* 1x Front plate cut from SVG or DVG file
+* 1x Back plate cut from SVG or DVG file
+* optional: opaque acrylic cut from the same pattern as the Back file.
 
 ## Program the arduino
 Just like the maslow firmware we need to program the arduino. In the repository there is a .ino file which you will have to program to the arduino board of your choice.
